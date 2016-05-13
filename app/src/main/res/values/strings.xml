@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-PLace</string>
+    <string name="e_place">E-PLACE</string>
+    <string name="map">Map</string>
+    <string name="setting">Setting</string>
+    <string name="keluar">Log Out</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>

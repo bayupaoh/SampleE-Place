@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/grup1">
+        <item
+            android:id="@+id/id_menu_map"
+            android:title="@string/map"
+            android:icon="@drawable/mapmenu"
+            />
+        <item
+            android:id="@+id/id_menu_setting"
+            android:title="@string/setting"
+            android:icon="@drawable/settings"
+            />
+        <item
+            android:id="@+id/id_menu_logout"
+            android:title="@string/keluar"
+            android:icon="@drawable/logout"
+            />
+    </group>
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789635072618",
+    "project_id": "e-place-b1841"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789635072618:android:02cac86306288400",
+        "android_client_info": {
+          "package_name": "com.emergency.e_place"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789635072618-dc0jtg6vvvbs3k2lokshoqrlbnnq3sho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emergency.e_place",
+            "certificate_hash": "64F476243E3E6F3F7ABDC1FCAD3386C6C7D7A9D6"
+          }
+        },
+        {
+          "client_id": "789635072618-p5t06ob58s9gorj77akv57f2oofqpnp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-HFu4unx3FEwIH6iTkAA2Mx18uRq_pcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
